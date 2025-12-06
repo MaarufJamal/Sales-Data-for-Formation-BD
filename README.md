@@ -1,3 +1,9 @@
+Overview
+
+This project presents a comprehensive Power BI dashboard built for Formation BD, a sports-merchandise e-commerce brand in Bangladesh. The goal of the dashboard is to provide clear visibility into sales performance, customer behavior, and product-level insights—enabling the team to make faster and more informed business decisions.
+
+The dashboard aggregates sales data from multiple product lines and transforms it into meaningful KPIs, visualizations, and geographic insights.
+
 1. Sales KPIs
 
 Total Number of Orders
